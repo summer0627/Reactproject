@@ -1,0 +1,12 @@
+.box {
+    border:1px dashed #ccc;
+    padding:10px;
+    margin: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+.content {
+  font-style:italic;
+}
+:global(.test){
+    color:yellow;
+}
